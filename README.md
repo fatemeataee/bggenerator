@@ -1,1 +1,1 @@
-# fatemeataee.github.io-bggenerator
+# Gradient background generator
